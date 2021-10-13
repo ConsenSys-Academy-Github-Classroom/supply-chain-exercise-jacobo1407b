@@ -1,0 +1,14 @@
+{
+  "name": "supply-chain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ConsenSys-Academy-Github-Classroom/supply-chain-exercise-jacobo1407b.git",
+  "author": "jacobo1407b <jacobohernandezmendieta7@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "truffle": "^5.4.14"
+  },
+  "scripts": {
+    "test":"truffle test"
+  }
+}
